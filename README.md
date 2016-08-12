@@ -6,3 +6,5 @@ Human Activity Recognition Using Smartphones Data Set obtained from the online r
 http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions 
 
 A copy of the final results produced by the code run_analysis.R is also included in the repository.
+
+Information regarding the running of the code is included in CodeBook.md
