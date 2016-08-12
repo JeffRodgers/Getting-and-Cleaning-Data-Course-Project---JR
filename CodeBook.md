@@ -15,6 +15,24 @@ The final results are shown in the file tidy.txt
 * Appropriately labels the data set with descriptive variable names.
 * Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+#Variables used in the creation of tidy.txt
+
+* x_train - raw training data
+* y_train - ID data
+* subject_train 
+* x_test - raw test data
+* y_test - ID data
+* subject_test
+* features
+* x_appended - combined
+* y_appended - combined
+* subject_appended
+* activity_labels
+* combined_data
+* sub_features
+* combined_data
+* means_data 
+
 #Data Dictionary
 
 The following text is from the data description text file that comes with the online dataset, it is used in its entirety as a data dictionary.
