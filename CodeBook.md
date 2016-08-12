@@ -1,5 +1,6 @@
 #Data Dictionary
 
+The following text is from the data description text file that comes with the online dataset, it is used in its entirety as a data dictionary.
 
 ===================================================================================================
 
