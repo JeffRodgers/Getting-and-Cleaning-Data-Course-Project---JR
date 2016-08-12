@@ -1,3 +1,20 @@
+#Introduction
+
+The R code run_analysis.R downloads the Human Activity Recognition Using Smartphones Data Set from the internet and then aggregates the data into a tidy dataset.
+
+The training and test datasets are merged and a list of features wanted is extracted, and aggregatged by activity and subject id and then a mean of each feature is taken.
+
+The final results are shown in the file tidy.txt
+
+#Steps in run_analysis.R
+
+* Download and unzip data file
+* Merges the training and the test sets to create one data set.
+* Extracts only the measurements on the mean and standard deviation for each measurement. 
+* Uses descriptive activity names to name the activities in the data set
+* Appropriately labels the data set with descriptive variable names.
+* Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
 #Data Dictionary
 
 The following text is from the data description text file that comes with the online dataset, it is used in its entirety as a data dictionary.
